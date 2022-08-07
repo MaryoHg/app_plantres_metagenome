@@ -1,5 +1,5 @@
-sampleid	sample	sra_accession	code_name	accession	biosampleid_list	id_1	treatment	id_3	Treatment
-Control15	Control_15	SRR8987901	15-Control	SRX576015	11468322	control15	controlA	UNS_1	UNS
-Control25	Control_25	SRR8987900	25-Control	SRX576016	11468328	control25	controlB	UNS_2	UNS
-Maize25	Maize_25	SRR8987903	25-Maiz	SRX576013	11468298	maiz25	maizA	MAS_1	MAS
-Maize35	Maize_35	SRR8987902	35-Maiz	SRX576014	11468300	maiz35	maizB	MAS_2	MAS
+sampleid	sample	Treatment	code_name	name	nameid1	nameid2	nameid3	sra_accession
+Control15	Control_15	UNS	15-Control	UNS_A	control15	controlA	UNS_1	SRR8987901
+Control25	Control_25	UNS	25-Control	UNS_B	control25	controlB	UNS_2	SRR8987900
+Maize25	Maize_25	MAS	25-Maiz	MAS_A	maiz25	maizA	MAS_1	SRR8987903
+Maize35	Maize_35	MAS	35-Maiz	MAS_B	maiz35	maizB	MAS_2	SRR8987902
