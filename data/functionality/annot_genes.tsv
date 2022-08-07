@@ -1,0 +1,69 @@
+Pathways	Genes	Annotation
+Nitrification	amoA_A	ammonia monooxygenase subunit A (archaea)
+Nitrification	amoA_B	ammonia monooxygenase subunit A (bacteria)
+Nitrification	amoB_A	ammonia monooxygenase subunit B (archaea)
+Nitrification	amoB_B	ammonia monooxygenase subunit B (bacteria)
+Nitrification	amoC_A	ammonia monooxygenase subunit C (archaea)
+Nitrification	amoC_B	ammonia monooxygenase subunit C (bacteria)
+Nitrogen fixation	anfG	nitrogenase delta subunit
+Organic degradation and synthesis	ansB	glutamin-(asparagin-)ase
+Organic degradation and synthesis	asnB	asparagine synthase (glutamine-hydrolysing)
+Organic degradation and synthesis	gdh_K00260	glutamate dehydrogenase
+Organic degradation and synthesis	gdh_K00261	glutamate dehydrogenase (NAD(P)+)
+Organic degradation and synthesis	gdh_K00262	glutamate dehydrogenase (NADP+)
+Organic degradation and synthesis	gdh_K15371	glutamate dehydrogenase
+Organic degradation and synthesis	glnA	glutamine synthetase
+Organic degradation and synthesis	glsA	Glutaminase
+Organic degradation and synthesis	gs_K00264	glutamate synthase (NADPH/NADH)
+Organic degradation and synthesis	gs_K00265	glutamate synthase (NADPH/NADH) large chain
+Organic degradation and synthesis	gs_K00266	glutamate synthase (NADPH/NADH) small chain
+Organic degradation and synthesis	gs_K00284	glutamate synthase (ferredoxin)
+Nitrification	hao	hydroxylamine dehydrogenase
+Others	hcp	hydroxylamine reductase
+Anammox	hdh	hydrazine dehydrogenase
+Anammox	hzo	hydrazine oxidoreductase
+Anammox	hzsA	hydrazine synthase subunit A
+Anammox	hzsB	hydrazine synthase subunit B
+Anammox	hzsC	hydrazine synthase subunit C
+Organic degradation and synthesis	nao	nitroalkane oxidase
+Denitrification and-or Dissimilatory nitrate reduction	napA	periplasmic nitrate reductase NapA
+Denitrification and-or Dissimilatory nitrate reduction	napB	cytochrome c-type protein NapB
+Denitrification and-or Dissimilatory nitrate reduction	napC	cytochrome c-type protein NapC
+Assimilatory nitrate reduction	narB	assimilatory nitrate reductase
+Assimilatory nitrate reduction	narC	cytochrome b-561
+Denitrification and-or Dissimilatory nitrate reduction	narG	nitrate reductase
+Denitrification and-or Dissimilatory nitrate reduction	narH	nitrate reductase
+Denitrification and-or Dissimilatory nitrate reduction	narI	nitrate reductase gamma subunit
+Denitrification and-or Dissimilatory nitrate reduction	narJ	nitrate reductase molybdenum cofactor assembly chaperone
+Denitrification and-or Dissimilatory nitrate reduction	narV	nitrate reductase 2, gamma subunit
+Denitrification and-or Dissimilatory nitrate reduction	narW	nitrate reductase 2, delta subunit
+Denitrification and-or Dissimilatory nitrate reduction	narY	nitrate reductase 2, beta subunit
+Denitrification and-or Dissimilatory nitrate reduction	narZ	nitrate reductase 2, alpha subunit
+Assimilatory nitrate reduction	nasA	assimilatory nitrate reductase catalytic subunit
+Assimilatory nitrate reduction	nasB	assimilatory nitrate reductase electron transfer subunit
+Nitrogen fixation	nifD	nitrogenase molybdenum-iron protein alpha chain
+Nitrogen fixation	nifH	nitrogenase iron protein NifH
+Nitrogen fixation	nifK	nitrogenase molybdenum-iron protein beta chain
+Nitrogen fixation	nifW	nitrogenase-stabilizing/protective protein
+Assimilatory nitrate reduction	nirA	ferredoxin-nitrite reductase
+Dissimilatory nitrate reduction	nirB	nitrite reductase (NADH) large subunit
+Dissimilatory nitrate reduction	nirD	nitrite reductase (NADH) small subunit
+Denitrification	nirK	nitrite reductase (NO-forming)
+Denitrification	nirS	nitrite reductase (NO-forming)
+Organic degradation and synthesis	nmo	nitronate monooxygenase
+Denitrification	norB	nitric oxide reductase subunit B
+Denitrification	norC	nitric oxide reductase subunit C
+Denitrification	nosZ	nitrous-oxide reductase
+Assimilatory nitrate reduction	NR	nitrate reductase (NAD(P)H)
+Dissimilatory nitrate reduction	nrfA	nitrite reductase (cytochrome c-552)
+Dissimilatory nitrate reduction	nrfB	cytochrome c-type protein NrfB
+Dissimilatory nitrate reduction	nrfC	protein NrfC
+Dissimilatory nitrate reduction	nrfD	protein NrfD
+Nitrification	nxrA	nitrite oxidoreductase, alpha subunit
+Nitrification	nxrB	nitrite oxidoreductase, beta subunit
+Others	pmoA	particulate methane monooxygenase subunit A
+Others	pmoB	particulate methane monooxygenase subunit B
+Others	pmoC	particulate methane monooxygenase subunit C
+Organic degradation and synthesis	ureA	urease subunit gamma
+Organic degradation and synthesis	ureB	urease subunit beta
+Organic degradation and synthesis	ureC	urease subunit alpha
