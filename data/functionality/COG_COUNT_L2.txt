@@ -1,0 +1,23 @@
+Category	maizA	maizB	controlA	controlB
+[A] RNA processing and modification	6	5	5	9
+[B] Chromatin structure and dynamics	9	12	15	14
+"[J] Translation, ribosomal structure and biogenesis"	949	984	943	992
+[K] Transcription	1075	1108	980	995
+"[L] Replication, recombination and repair"	1232	1319	1399	1357
+"[D] Cell cycle control, cell division, chromosome partitioning"	182	180	137	162
+[M] Cell wall/membrane/envelope biogenesis	1402	1419	1243	1270
+[N] Cell motility	172	159	79	85
+"[O] Posttranslational modification, protein turnover, chaperones"	1029	1103	1098	1082
+[T] Signal transduction mechanisms	1542	1619	1492	1485
+"[U] Intracellular trafficking, secretion, and vesicular transport"	428	407	286	351
+[V] Defense mechanisms	581	576	743	701
+[W] Extracellular structures	7	7	0	2
+[Z] Cytoskeleton	2	4	3	4
+[C] Energy production and conversion	1525	1672	1711	1684
+[E] Amino acid transport and metabolism	1727	1881	1858	1843
+[F] Nucleotide transport and metabolism	456	464	488	457
+[G] Carbohydrate transport and metabolism	1519	1635	1377	1412
+[H] Coenzyme transport and metabolism	557	555	541	593
+[I] Lipid transport and metabolism	675	690	597	586
+[P] Inorganic ion transport and metabolism	1722	1737	1378	1418
+"[Q] Secondary metabolites biosynthesis, transport and catabolism"	671	703	913	853
