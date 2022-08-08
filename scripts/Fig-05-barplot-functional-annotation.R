@@ -1,54 +1,37 @@
-################################################
-## Dando formato a SEED functional annotation ##
-################################################
-rm (list = ls())
-library(ggplot2)
-library (tidyr)
-library (reshape2)
-source('/home/mario/Dropbox/R_functions/summarySE.R')
-source('/home/mario/Dropbox/R_functions/tranpose.any.table.R')
-source('/home/mario/Dropbox/R_functions/loop_for_Welch_test.R')
+#######################################################################
+## Figure 05 - Functional annotation based on SEED and COG databases ##
+#######################################################################
+rm (list = ls()); dev.off()
+set.seed(999)
+library(ggplot2); library (tidyr); library (reshape2); library(Rmisc); library(dplyr)
+source('../scripts/loop_for_Welch_test.R.')
+metadata <- read.delim('../data/metadata.txt', check.names = F)
 
-##1. Loading data and rename headers; create the factor for this data
-        seed.L1.raw <- read.delim('/home/mario/Documents/Doctorado/PROYECTOS/norma-jimenez/shotgun_sonora/megahit_sonora/prokka_vs_nr/MEGAN_ANALYSIS/SEED/SEED_L1_COUNT.txt')
-        colnames(seed.L1.raw)[1] <- "Function";
-        View (seed.L1.raw)
-        Functions <- seed.L1.raw[,1]
-        
-        ## Creating factors for statistics
-        treatments <- factor(rep (c("MAS", "UNS"), each =2))
-        treatments
-        
-        
-        ## a) Formatting for barplot: wide to long
-        seed.L1.long <- melt (seed.L1.raw,
-                              id.vars="Function",
-                              variable.name='Replicates',
-                              value.name="reads_assigned")
+##1. Loading SEED data
+	## load the raw dataframe
+	## change from wide to long format
+	## merge with their metadata
+	## filter functions with counts >=33 contigs (46 functions are left)
+	data <- read.delim('../data/functionality/SEED_L1_COUNT.txt') %>% 
+        	tidyr::pivot_longer(cols = !Function, names_to = "nameid2", values_to = "count") %>% 
+        	inner_join(x = metadata[,c(3,7)], by = "nameid2") %>% 
+		dplyr::filter(count >= 33)
 
-        ## Adding TREATMENT (UNS and MAS):
-        seed.L1.long$TREATMENT <- rep (c("MAS", "UNS"), each =90)
-        View(seed.L1.long)
-        
-        ## b) AVERAGE and statistics: summarySE()
-        ## Filtering samples with >=50 reads assigned:
-        seed.L1.long.50.most <- subset(seed.L1.long, reads_assigned>=33) #46*
-        
-        seed.L1.long.50.most.summary <- summarySE(data = seed.L1.long.50.most, measurevar = "reads_assigned",
-                                                    groupvars = c("Function", "TREATMENT"), na.rm = T)
-        View (seed.L1.long.50.most.summary)
-        
+	## summarizing data before plotting
+	data.avg <- Rmisc::summarySE(data = data, measurevar = "count",
+				     groupvars = c("Treatment", "Function"), na.rm = T); head(data.avg)
 
 ## 2.0 Ploting: BAR PLOT
-        SEED_L1 <- ggplot(seed.L1.long.50.most.summary[seed.L1.long.50.most.summary$Function!="Plant cell walls and outer surfaces",],
-                          aes(x=Function, y=reads_assigned,fill=TREATMENT)) +
-                geom_errorbar (aes (ymin=reads_assigned-se, ymax=reads_assigned+se), 
+        SEED_L1 <- 
+        	ggplot(data.avg[data.avg$Function!="Plant cell walls and outer surfaces",],
+                          aes(x = Function, y = count,fill= Treatment)) +
+                geom_errorbar (aes (ymin=count-se, ymax=count+se), 
                                colour="black", width=0.3, position=position_dodge(0.9)) +
                 geom_bar(position=position_dodge(), stat = 'identity', width = 0.9) +
                 scale_fill_manual(values = c("#FF0000","#0000FF"), # red and blue # 
                                   name="Treatment", 
                                   labels=c("MAS","UNS")) +
-                xlab("") + ylab("Number of reads") +
+                xlab("") + ylab("Number of annotated contigs") +
                 theme_bw() + scale_y_continuous(expand = c(0, 0), limits = c(0,8000)) + ## must be up here
                 theme (axis.text.x = element_text(angle = 70, hjust = 1)) ## x-axis names angle.
         SEED_L1
