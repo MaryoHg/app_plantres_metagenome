@@ -1,7 +1,0 @@
-# Constructed from biom file				
-Level_1	Level_2	controlA	controlB	maizA	maizB
-k__Archaea	p__Candidatus Korarchaeota	149	139	84	109
-k__Archaea	p__Candidatus Micrarchaeota	130	151	224	228
-k__Archaea	p__Crenarchaeota	5323	5331	6111	6043
-k__Archaea	p__Euryarchaeota	189008	194804	197497	197685
-k__Archaea	p__Thaumarchaeota	14466	8651	5160	5011

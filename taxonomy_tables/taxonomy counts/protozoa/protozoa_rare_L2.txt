@@ -1,8 +1,0 @@
-# Constructed from biom file
-Level_1	Level_2	controlA	controlB	maizA	maizB
-k__Eukaryota	p__	22739.0	22914.0	22216.0	21898.0
-k__Eukaryota	p__Apicomplexa	16769.0	16881.0	16121.0	16355.0
-k__Eukaryota	p__Bacillariophyta	3583.0	3526.0	3583.0	3652.0
-k__Eukaryota	p__Cercozoa	2719.0	2676.0	2972.0	3117.0
-k__Eukaryota	p__Ciliophora	10.0	6.0	9.0	9.0
-k__Eukaryota	p__Cryptophyta	10630.0	10447.0	11549.0	11419.0

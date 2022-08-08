@@ -1,5 +1,0 @@
-# Constructed from biom file
-Level_1	Level_2	controlA	controlB	maizA	maizB
-k__Eukaryota	p__Ascomycota	57098	57439	58044	57724
-k__Eukaryota	p__Basidiomycota	4335	3993	3399	3692
-k__Eukaryota	p__Microsporidia	98	99	88	115
