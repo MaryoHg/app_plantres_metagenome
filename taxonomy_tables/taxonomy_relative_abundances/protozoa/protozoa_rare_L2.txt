@@ -1,8 +1,0 @@
-# Constructed from biom file				
-Level_1	Level_2	control15_bracken	control25_bracken	maiz25_bracken	maiz35_bracken
-k__Eukaryota	p__Euglenozoa	0.402816652	0.40591674	0.393551816	0.387918512
-k__Eukaryota	p__Apicomplexa	0.297059345	0.299043401	0.285580159	0.289725421
-k__Eukaryota	p__Bacillariophyta	0.063472099	0.062462356	0.063472099	0.06469442
-k__Eukaryota	p__Cercozoa	0.048166519	0.047404783	0.052648361	0.055217006
-k__Eukaryota	p__Ciliophora	0.000177148	0.000106289	0.000159433	0.000159433
-k__Eukaryota	p__Cryptophyta	0.188308237	0.18506643	0.204588131	0.202285208
