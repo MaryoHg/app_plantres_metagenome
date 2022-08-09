@@ -1,0 +1,98 @@
+# Constructed from biom file									
+Level_1	Level_2	Level_3	Level_4	Level_5	Level_6	controlA	controlB	maizA	maizB
+k__Archaea	p__Candidatus Korarchaeota	c__	o__	f__	g__Candidatus Korarchaeum	0.00071266	0.00066483	0.000401768	0.000521342
+k__Archaea	p__Candidatus Micrarchaeota	c__	o__	f__	g__	0.000621783	0.000722225	0.001071381	0.001090513
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Acidilobales	f__Acidilobaceae	g__Acidilobus	0.002429738	0.002118847	0.002013622	0.002032754
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Acidilobales	f__Caldisphaeraceae	g__Caldisphaera	0.000205667	0.000205667	0.000143488	0.00016262
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Desulfurococcales	f__Desulfurococcaceae	g__Desulfurococcus	0.002185808	0.002300599	0.00374505	0.003945934
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Desulfurococcales	f__Desulfurococcaceae	g__Ignicoccus	0.001133559	0.001277048	0.001114427	0.0010379
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Desulfurococcales	f__Desulfurococcaceae	g__Staphylothermus	0.000220016	0.000263062	0.000186535	0.000200884
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Desulfurococcales	f__Desulfurococcaceae	g__Thermogladius	0.001234001	0.001190954	0.001358358	0.001157474
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Desulfurococcales	f__Desulfurococcaceae	g__Thermosphaera	0.000105225	0.00012914	5.74E-05	0.000100442
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Desulfurococcales	f__Pyrodictiaceae	g__Hyperthermus	0.000435248	0.000463946	0.000487861	0.000564388
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Desulfurococcales	f__Pyrodictiaceae	g__Pyrodictium	0.001023551	0.001013985	0.000837016	0.000980505
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Desulfurococcales	f__Pyrodictiaceae	g__Pyrolobus	0.001143125	0.001267482	0.001568808	0.001420536
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Sulfolobales	f__Sulfolobaceae	g__Acidianus	0.001052249	0.001315311	0.002209723	0.0020758
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Sulfolobales	f__Sulfolobaceae	g__Metallosphaera	0.000645698	0.00079397	0.00079397	0.000669613
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Sulfolobales	f__Sulfolobaceae	g__Sulfolobus	0.000899195	0.001071381	0.000913543	0.000970939
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Sulfolobales	f__Sulfolobaceae	g__Sulfurisphaera	0.000368287	0.000358721	0.000339589	0.000334806
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Thermoproteales	f__Thermofilaceae	g__Thermofilum	0.002750196	0.00244887	0.00228625	0.002401041
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Thermoproteales	f__Thermoproteaceae	g__Caldivirga	0.000224799	0.000253496	0.000215233	0.000215233
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Thermoproteales	f__Thermoproteaceae	g__Pyrobaculum	0.001047466	0.001100078	0.000942241	0.000913543
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Thermoproteales	f__Thermoproteaceae	g__Thermoproteus	0.007700549	0.007370526	0.009412845	0.009121085
+k__Archaea	p__Crenarchaeota	c__Thermoprotei	o__Thermoproteales	f__Thermoproteaceae	g__Vulcanisaeta	0.000655264	0.000554822	0.000602652	0.000597869
+k__Archaea	p__Euryarchaeota	c__Archaeoglobi	o__Archaeoglobales	f__Archaeoglobaceae	g__Archaeoglobus	0.006963975	0.007078766	0.006734393	0.006533509
+k__Archaea	p__Euryarchaeota	c__Archaeoglobi	o__Archaeoglobales	f__Archaeoglobaceae	g__Ferroglobus	0.00175056	0.001602288	0.001028334	0.001712296
+k__Archaea	p__Euryarchaeota	c__Archaeoglobi	o__Archaeoglobales	f__Archaeoglobaceae	g__Geoglobus	0.004352484	0.005103407	0.005232547	0.004759035
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Halobacteriales	f__Haloarculaceae	g__Haloarcula	0.031543554	0.032012283	0.033069315	0.033169756
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Halobacteriales	f__Haloarculaceae	g__Halomicrobium	0.016319425	0.017553426	0.018136945	0.017854751
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Halobacteriales	f__Haloarculaceae	g__Halorhabdus	0.021867646	0.022412902	0.023570376	0.023866919
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Halobacteriales	f__Haloarculaceae	g__Halorientalis	0.028602039	0.029788211	0.030089537	0.030644359
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Halobacteriales	f__Haloarculaceae	g__Natronomonas	0.020241443	0.020954103	0.021250646	0.021336739
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Halobacteriales	f__Halobacteriaceae	g__Halalkalicoccus	0.01263177	0.013703151	0.013942298	0.013913601
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Halobacteriales	f__Halobacteriaceae	g__Halanaeroarchaeum	0.007671851	0.007958828	0.008154929	0.007705332
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Halobacteriales	f__Halobacteriaceae	g__Halobacterium	0.09334883	0.096433833	0.09741912	0.096357305
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Halobacteriales	f__Halobacteriaceae	g__Halodesulfurarchaeum	0.008083185	0.00826972	0.008944116	0.008657139
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Haloferacales	f__Haloferacaceae	g__Haloferax	0.047002047	0.049192638	0.049077847	0.049532228
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Haloferacales	f__Haloferacaceae	g__Halogeometricum	0.007542712	0.008102317	0.007327479	0.007781859
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Haloferacales	f__Haloferacaceae	g__Haloplanus	0.021705026	0.022876849	0.022704662	0.022852934
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Haloferacales	f__Haloferacaceae	g__Haloquadratum	0.022838585	0.024187377	0.024149113	0.024120416
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Haloferacales	f__Halorubraceae	g__Halohasta	0.009895923	0.010135071	0.010398133	0.010536838
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Haloferacales	f__Halorubraceae	g__Halopenitus	0.017921713	0.018907	0.018854388	0.019303985
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Haloferacales	f__Halorubraceae	g__Halorubrum	0.071352044	0.07218906	0.075742792	0.075097094
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Haloferacales	f__Halorubraceae	g__Salinigranum	0.027860682	0.028453768	0.027023666	0.026703208
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Natrialbales	f__Natrialbaceae	g__Halobiforma	0.022580306	0.02406302	0.023426888	0.023699516
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Natrialbales	f__Natrialbaceae	g__Halopiger	0.026435363	0.027908512	0.028932063	0.028377241
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Natrialbales	f__Natrialbaceae	g__Halostagnicola	0.010890777	0.011976506	0.011340374	0.011106009
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Natrialbales	f__Natrialbaceae	g__Haloterrigena	0.03379154	0.034815091	0.034858138	0.034657254
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Natrialbales	f__Natrialbaceae	g__Natrialba	0.030151715	0.03079263	0.030716103	0.030811762
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Natrialbales	f__Natrialbaceae	g__Natrinema	0.032901911	0.033600222	0.034963363	0.033944594
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Natrialbales	f__Natrialbaceae	g__Natronobacterium	0.009565899	0.009857659	0.009628078	0.009685473
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Natrialbales	f__Natrialbaceae	g__Natronococcus	0.020547552	0.021293692	0.020384932	0.019968815
+k__Archaea	p__Euryarchaeota	c__Halobacteria	o__Natrialbales	f__Natrialbaceae	g__Salinarchaeum	0.021011498	0.022331592	0.0218246	0.022111577
+k__Archaea	p__Euryarchaeota	c__Methanobacteria	o__Methanobacteriales	f__Methanobacteriaceae	g__Methanobacterium	0.001693164	0.001669249	0.001707513	0.00178404
+k__Archaea	p__Euryarchaeota	c__Methanobacteria	o__Methanobacteriales	f__Methanobacteriaceae	g__Methanobrevibacter	0.00111921	0.001147908	0.001506629	0.001712296
+k__Archaea	p__Euryarchaeota	c__Methanobacteria	o__Methanobacteriales	f__Methanobacteriaceae	g__Methanosphaera	0.000229582	0.000220016	0.000258279	0.00029176
+k__Archaea	p__Euryarchaeota	c__Methanobacteria	o__Methanobacteriales	f__Methanobacteriaceae	g__Methanothermobacter	0.002831506	0.00270715	0.003061088	0.003046739
+k__Archaea	p__Euryarchaeota	c__Methanobacteria	o__Methanobacteriales	f__Methanothermaceae	g__Methanothermus	0.000248713	0.00024393	0.000205667	0.000224799
+k__Archaea	p__Euryarchaeota	c__Methanococci	o__Methanococcales	f__Methanocaldococcaceae	g__Methanocaldococcus	0.007145727	0.007083549	0.009848094	0.009805047
+k__Archaea	p__Euryarchaeota	c__Methanococci	o__Methanococcales	f__Methanocaldococcaceae	g__Methanotorris	0.001989707	0.001803172	0.0014588	0.00178404
+k__Archaea	p__Euryarchaeota	c__Methanococci	o__Methanococcales	f__Methanococcaceae	g__Methanococcus	0.004084639	0.004223345	0.005184718	0.005624749
+k__Archaea	p__Euryarchaeota	c__Methanococci	o__Methanococcales	f__Methanococcaceae	g__Methanothermococcus	0.001224435	0.001468366	0.000942241	0.001023551
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanocellales	f__Methanocellaceae	g__Methanocella	0.015936789	0.016147238	0.019031357	0.01850045
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanomicrobiales	f__Methanocorpusculaceae	g__Methanocorpusculum	0.00265932	0.002798026	0.002066234	0.002271901
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanomicrobiales	f__Methanomicrobiaceae	g__Methanoculleus	0.030682623	0.030457824	0.029984312	0.030610878
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanomicrobiales	f__Methanomicrobiaceae	g__Methanofollis	0.018022155	0.018978745	0.01820869	0.018017372
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanomicrobiales	f__Methanomicrobiaceae	g__Methanolacinia	0.001884482	0.002018405	0.001798389	0.001951443
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanomicrobiales	f__Methanomicrobiaceae	g__Methanoplanus	0.000530907	0.000478295	0.0004209	0.000463946
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanomicrobiales	f__Methanoregulaceae	g__Methanolinea	0.00398898	0.004165949	0.005031663	0.004936004
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanomicrobiales	f__Methanoregulaceae	g__Methanoregula	0.011799537	0.012100863	0.012359142	0.012263483
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanomicrobiales	f__Methanoregulaceae	g__Methanosphaerula	0.007729247	0.008011441	0.008968031	0.009312403
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanomicrobiales	f__Methanospirillaceae	g__Methanospirillum	0.002506266	0.002276684	0.001578373	0.001745777
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanosarcinales	f__Methanosaetaceae	g__Methanothrix	0.017467332	0.017582123	0.017725612	0.018151294
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanosarcinales	f__Methanosarcinaceae	g__Methanococcoides	0.001425319	0.001439668	0.001607071	0.001769691
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanosarcinales	f__Methanosarcinaceae	g__Methanohalobium	0.000224799	0.000253496	0.00024393	0.00029176
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanosarcinales	f__Methanosarcinaceae	g__Methanohalophilus	0.001315311	0.001147908	0.001320094	0.0014588
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanosarcinales	f__Methanosarcinaceae	g__Methanolobus	0.001889265	0.001946661	0.001611854	0.00175056
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanosarcinales	f__Methanosarcinaceae	g__Methanomethylovorans	0.001061815	0.000975722	0.000947024	0.000937458
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanosarcinales	f__Methanosarcinaceae	g__Methanosalsum	0.000377853	0.000396985	0.00029176	0.000301326
+k__Archaea	p__Euryarchaeota	c__Methanomicrobia	o__Methanosarcinales	f__Methanosarcinaceae	g__Methanosarcina	0.012163041	0.011388203	0.012296964	0.012531328
+k__Archaea	p__Euryarchaeota	c__Methanopyri	o__Methanopyrales	f__Methanopyraceae	g__Aciduliprofundum	0.000937458	0.000789187	0.000765272	0.000674396
+k__Archaea	p__Euryarchaeota	c__Methanopyri	o__Methanopyrales	f__Methanopyraceae	g__Methanopyrus	0.006600471	0.006791789	0.007595324	0.006710478
+k__Archaea	p__Euryarchaeota	c__Thermococci	o__Thermococcales	f__Thermococcaceae	g__Palaeococcus	0.000248713	0.000200884	0.000181752	0.000176969
+k__Archaea	p__Euryarchaeota	c__Thermococci	o__Thermococcales	f__Thermococcaceae	g__Pyrococcus	0.001769691	0.001827087	0.001650118	0.001525761
+k__Archaea	p__Euryarchaeota	c__Thermococci	o__Thermococcales	f__Thermococcaceae	g__Thermococcus	0.042903059	0.043233083	0.041358166	0.043151773
+k__Archaea	p__Euryarchaeota	c__Thermoplasmata	o__Methanomassiliicoccales	f__Methanomassiliicoccaceae	g__Candidatus Methanomethylophilus	0.002468002	0.002582793	0.003118483	0.002630622
+k__Archaea	p__Euryarchaeota	c__Thermoplasmata	o__Methanomassiliicoccales	f__Methanomassiliicoccaceae	g__Candidatus Methanoplasma	0.002668886	0.002630622	0.002812374	0.002721498
+k__Archaea	p__Euryarchaeota	c__Thermoplasmata	o__Methanomassiliicoccales	f__Methanomassiliicoccaceae	g__Methanomassiliicoccus	0.000731791	0.00082745	0.002037537	0.002056668
+k__Archaea	p__Euryarchaeota	c__Thermoplasmata	o__Thermoplasmatales	f__	g__	0.00374505	0.004084639	0.00436205	0.004309438
+k__Archaea	p__Euryarchaeota	c__Thermoplasmata	o__Thermoplasmatales	f__Cuniculiplasmataceae	g__Cuniculiplasma	0.000727008	0.000727008	0.00079397	0.00082745
+k__Archaea	p__Euryarchaeota	c__Thermoplasmata	o__Thermoplasmatales	f__Ferroplasmaceae	g__Ferroplasma	0.000196101	0.000167403	0.000205667	0.000167403
+k__Archaea	p__Euryarchaeota	c__Thermoplasmata	o__Thermoplasmatales	f__Picrophilaceae	g__Picrophilus	0.000224799	0.000114791	0.000181752	0.000172186
+k__Archaea	p__Euryarchaeota	c__Thermoplasmata	o__Thermoplasmatales	f__Thermoplasmataceae	g__Thermoplasma	0.001190954	0.001076164	0.000966156	0.001028334
+k__Archaea	p__Thaumarchaeota	c__Nitrososphaeria	o__Candidatus Nitrosocaldales	f__Candidatus Nitrosocaldaceae	g__Candidatus Nitrosocaldus	0.001726645	0.001415753	0.000770055	0.000765272
+k__Archaea	p__Thaumarchaeota	c__Nitrososphaeria	o__Candidatus Nitrosocaldales	f__Candidatus Nitrosocaldaceae	g__Candidatus Nitrosopelagicus	0.001348792	0.001324877	0.000707877	0.000564388
+k__Archaea	p__Thaumarchaeota	c__Nitrososphaeria	o__Candidatus Nitrosocaldales	f__Candidatus Nitrosocaldaceae	g__Candidatus Nitrosotenuis	0.004161166	0.003419809	0.00345329	0.00290325
+k__Archaea	p__Thaumarchaeota	c__Nitrososphaeria	o__Nitrosopumilales	f__Nitrosopumilaceae	g__Candidatus Nitrosomarinus	0.001807955	0.001439668	0.000903978	0.000970939
+k__Archaea	p__Thaumarchaeota	c__Nitrososphaeria	o__Nitrosopumilales	f__Nitrosopumilaceae	g__Nitrosopumilus	0.003496336	0.002936731	0.002032754	0.001731428
+k__Archaea	p__Thaumarchaeota	c__Nitrososphaeria	o__Nitrososphaerales	f__Nitrososphaeraceae	g__Nitrososphaera	0.056649257	0.03084046	0.016812068	0.017032084

@@ -1,0 +1,37 @@
+# Constructed from biom file				
+Level_1	Level_2	controlA	controlB	maizA	maizB
+k__Bacteria	p__Acidobacteria	0.011609182	0.014868112	0.007264426	0.007816057
+k__Bacteria	p__Actinobacteria	0.302176301	0.256606489	0.219143321	0.221584734
+k__Bacteria	p__Aquificae	0.000228111	0.000136334	6.97E-05	8.64E-05
+k__Bacteria	p__Armatimonadetes	0.000839069	0.000413117	0.000198568	0.000240703
+k__Bacteria	p__Bacteroidetes	0.021987003	0.015759729	0.020911832	0.025332141
+k__Bacteria	p__Caldiserica	2.93E-05	1.82E-05	9.93E-06	1.07E-05
+k__Bacteria	p__Calditrichaeota	0.00018428	9.06E-05	4.67E-05	5.64E-05
+k__Bacteria	p__Candidatus Cloacimonetes	5.01E-05	2.18E-05	1.53E-05	1.48E-05
+k__Bacteria	p__Candidatus Saccharibacteria	9.88E-05	0.004086618	0.002505826	0.002999824
+k__Bacteria	p__Chlamydiae	0.000110665	6.83E-05	4.53E-05	5.47E-05
+k__Bacteria	p__Chlorobi	0.001820768	0.001025529	0.00057294	0.000679489
+k__Bacteria	p__Chloroflexi	0.007612888	0.004368487	0.002142593	0.002345277
+k__Bacteria	p__Chrysiogenetes	0.000155706	0.000104853	5.67E-05	5.96E-05
+k__Bacteria	p__Coprothermobacterota	1.89E-05	1.38E-05	5.33E-06	8.96E-06
+k__Bacteria	p__Cyanobacteria	0.007053509	0.005626243	0.003050676	0.003487041
+k__Bacteria	p__Deferribacteres	8.69E-05	4.36E-05	2.81E-05	3.27E-05
+k__Bacteria	p__Deinococcus-Thermus	0.00889147	0.005555776	0.003156498	0.0035207
+k__Bacteria	p__Dictyoglomi	2.98E-05	2.47E-05	1.40E-05	1.62E-05
+k__Bacteria	p__Elusimicrobia	5.45E-05	3.46E-05	1.67E-05	2.18E-05
+k__Bacteria	p__Fibrobacteres	8.67E-05	4.65E-05	2.06E-05	2.93E-05
+k__Bacteria	p__Firmicutes	0.022879831	0.02328084	0.016871466	0.017030804
+k__Bacteria	p__Fusobacteria	0.000106306	7.46E-05	6.03E-05	7.31E-05
+k__Bacteria	p__Gemmatimonadetes	0.017031288	0.008597009	0.005030783	0.006544013
+k__Bacteria	p__Ignavibacteriae	0.000146262	7.43E-05	4.21E-05	5.50E-05
+k__Bacteria	p__Kiritimatiellaeota	0.000459369	0.000334659	0.000180648	0.000198325
+k__Bacteria	p__Lentisphaerae	0.000429584	0.000284049	0.000162244	0.000185249
+k__Bacteria	p__Nitrospirae	0.003978617	0.002076484	0.000973708	0.001412978
+k__Bacteria	p__Planctomycetes	0.019099297	0.011199697	0.005469811	0.006122178
+k__Bacteria	p__Proteobacteria	0.562818071	0.63904333	0.707942413	0.695424663
+k__Bacteria	p__Spirochaetes	0.000951672	0.000694502	0.000409243	0.000467118
+k__Bacteria	p__Synergistetes	0.000777077	0.000445082	0.000233922	0.000273152
+k__Bacteria	p__Tenericutes	0.000380426	0.000303905	0.000164182	0.00019881
+k__Bacteria	p__Thermodesulfobacteria	6.54E-05	4.29E-05	1.99E-05	2.49E-05
+k__Bacteria	p__Thermotogae	0.000226415	0.000208738	9.88E-05	0.000119867
+k__Bacteria	p__Verrucomicrobia	0.007526439	0.004426605	0.003065448	0.003472269
